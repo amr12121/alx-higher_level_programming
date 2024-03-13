@@ -13,3 +13,6 @@ elif lastdigit < 6 and lastdigit != 0:
           .format(number, lastdigit))
 else:
     print("Last digit of {:d} is 0 and is 0".format(number))
+
+Last digit of 98 is 8 and is greater than 5
+Last digit of -98 is -8 and is less than 6 and not 0
